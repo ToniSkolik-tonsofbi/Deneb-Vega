@@ -10,9 +10,10 @@ Please note that I am no expert on this topic! I post these example implementati
 
 ## Samples
 <p align="left">
-  <img src="[https://github.com/ToniSkolik-tonsofbi/Deneb-Vega/blob/main/images/Favicon.png](https://github.com/ToniSkolik-tonsofbi/Deneb-Vega/blob/main/images/20251209_202615.gif)"
+  <img src="https://github.com/ToniSkolik-tonsofbi/Deneb-Vega/raw/main/images/20251209_202615.gif"
        width="250" height="250" alt="MTA">
 </p>
+
 
 ## Author of the content
 Toni Skolik
