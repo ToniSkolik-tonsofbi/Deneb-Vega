@@ -3,6 +3,8 @@
 ## General Information
 
 Feel free to use all files available in this folder for your project!
+Copywrite does apply for the images (also the images included within the .pbix file!)
+
 I can't guarantee an error free experience, for my case the chart worked flawless!
 
 ### Explaination
@@ -28,3 +30,4 @@ The colors used can currently only be controlled within the spec/ template.
 I will upload a version that uses your Power BI theme colors.
 
 For questions, contact me on [LinedIn](https://www.linkedin.com/in/toni-skolik-395a33153/)
+
