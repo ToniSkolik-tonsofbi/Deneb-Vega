@@ -7,6 +7,9 @@ Please note that I am no expert on this topic! I post these example implementati
        width="250" height="250" alt="Tons of BI logo">
 </p>
 
+
+## Samples
+
 ## Author of the content
 Toni Skolik
 - [LinkedIn](https://www.linkedin.com/in/toni-skolik-395a33153/)
