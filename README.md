@@ -1,5 +1,6 @@
 # Deneb | Vega | Vega-lite | .pbix samples
 Vega and Vega-lite code & templates of custom Deneb Visuals in Power BI, with example .pbix files for free.
+Please note that I am no expert on this topic! I post these example implementations because they might me helpful for others!
 
 <p align="center">
   <img src="https://github.com/ToniSkolik-tonsofbi/Deneb-Vega/blob/main/images/Favicon.png"
